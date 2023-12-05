@@ -33,9 +33,9 @@ function startQuiz() {
     funtion => const answerButton = document...grab button
     //if statement to check if the correct button/answer was clicked
     if (button === currentQuestion.correctAnswer) {
-      do ++ AND move to the next question
+      do ++ to score && move to the next question
     } else {
-      do -- AND move to the next question
+      -- 5 seconds of time && move to the next question
     } */
 
     //displayRandomQuestion();
